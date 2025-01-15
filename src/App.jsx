@@ -17,7 +17,7 @@ const App = () => {
   const appStyle = {
     backgroundColor: isDarkMode ? "black" : "white",
     color: isDarkMode ? "white" : "black",
-    height: "98.14vh",
+    height: "97.18vh",
     width: "98.59999vw",
     display: "flex",
     justifyContent: "center",
